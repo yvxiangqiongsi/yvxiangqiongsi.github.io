@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 玉想琼思使用hugo建立的一个站点</title>
-    <link>https://yvxiangqiongsi.io/%20--buildDrafts/page/</link>
+    <link>https://yvxiangqiongsi.io/page/</link>
     <description>Recent content in Pages on 玉想琼思使用hugo建立的一个站点</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 04 Feb 2023 16:55:42 +0800</lastBuildDate><atom:link href="https://yvxiangqiongsi.io/%20--buildDrafts/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 16:55:42 +0800</lastBuildDate><atom:link href="https://yvxiangqiongsi.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>联系我</title>
-      <link>https://yvxiangqiongsi.io/%20--buildDrafts/page/contact/</link>
+      <link>https://yvxiangqiongsi.io/page/contact/</link>
       <pubDate>Sat, 04 Feb 2023 16:55:42 +0800</pubDate>
       
-      <guid>https://yvxiangqiongsi.io/%20--buildDrafts/page/contact/</guid>
+      <guid>https://yvxiangqiongsi.io/page/contact/</guid>
       <description>我的邮箱 2571203357@qq.com</description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>https://yvxiangqiongsi.io/%20--buildDrafts/page/about/</link>
+      <link>https://yvxiangqiongsi.io/page/about/</link>
       <pubDate>Sat, 04 Feb 2023 16:55:09 +0800</pubDate>
       
-      <guid>https://yvxiangqiongsi.io/%20--buildDrafts/page/about/</guid>
+      <guid>https://yvxiangqiongsi.io/page/about/</guid>
       <description>我是谁？ 我是一个学习hugo的使用者，希望和大家多多交流。
 我要到哪里去？ 我希望能够通过这个教程，和大家共同进步。</description>
     </item>
